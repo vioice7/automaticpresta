@@ -36,7 +36,7 @@ time.sleep(1)
 #	    click(S(".infobar-dismiss"))
 
 #complete all the necesary data
-write("aim000@gmail.com", into=S("#email_create"))
+write("aimaeo@gmail.com", into=S("#email_create"))
 time.sleep(1)
 click(S("#SubmitCreate"))
 time.sleep(2)
